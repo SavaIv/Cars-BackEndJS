@@ -1,0 +1,24 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavaIv/Cars-BackEndJS.git"
+  },
+  "keywords": [],
+  "author": "Sava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SavaIv/Cars-BackEndJS/issues"
+  },
+  "homepage": "https://github.com/SavaIv/Cars-BackEndJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
